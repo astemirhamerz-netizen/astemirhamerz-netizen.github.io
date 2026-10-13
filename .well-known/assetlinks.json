@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.astemirhamerz_netizen.twa",
+        "sha256_cert_fingerprints": ["E3:D2:2D:5B:76:8D:14:9D:9E:5E:50:F7:C1:35:0A:4B:7D:C3:34:14:14:55:27:26:FA:48:77:2E:67:CA:5E:98"]
+      }
+    }]
